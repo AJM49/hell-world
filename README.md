@@ -1,2 +1,2 @@
-# hell-world
-staying positive 
+# hello-world
+Just staying positive in a world full of peaks and valleys. My very first code happened when I was in midddle school. I wrote a driving game program. I do not recall what or how I wrote it,I just remember being in my classroom,and seeing the results of it on the computer monitor. Although I would not go onto to become a programmer in my adolescence years. Now here in my adult life I am coding again. Again just staying positive in a world full of peaks and valleys.  
